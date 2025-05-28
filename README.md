@@ -12,3 +12,7 @@ PDF: [link](AnalisisNE.pdf)
 Una compilación de demostraciones varias de propiedades y teoremas mencionados en el curso, alguno no demostrados en el curso como tal.
 
 PDF: [link](DemoPRYE.pdf)
+
+## La caracterización de Kuratowski-Mrówka para espacios compactos.
+
+PDF: [link](TOPO.pdf)
