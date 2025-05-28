@@ -15,4 +15,7 @@ PDF: [link](DemoPRYE.pdf)
 
 ## La caracterización de Kuratowski-Mrówka para espacios compactos.
 
+Una forma diferente de trabajar con los espacios compactos. Varios de los teoremas vistos en clase
+se encuentran en el documento demostrados bajo esta caracterización.
+
 PDF: [link](TOPO.pdf)
